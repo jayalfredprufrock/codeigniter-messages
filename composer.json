@@ -1,0 +1,11 @@
+{
+	"description" : "A CI spark for handling flash messages gracefully.",
+	"name" : "jayalfredprufrock/codeigniter-messages",
+	"type": "codeigniter-module",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3",
+		"composer/installers": "~1.0"
+	}
+	
+}
